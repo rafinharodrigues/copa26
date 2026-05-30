@@ -1,0 +1,546 @@
+[
+  {
+    "pagina": 1,
+    "idx": 1,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      52.2,
+      158.2,
+      236.5
+    ],
+    "fill": 0.611,
+    "px": [
+      772,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p001_01.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 2,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      52.2,
+      297.1,
+      236.5
+    ],
+    "fill": 0.978,
+    "px": [
+      773,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p001_02.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 3,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      52.2,
+      436.0,
+      236.5
+    ],
+    "fill": 0.979,
+    "px": [
+      773,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p001_03.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 4,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      52.2,
+      574.9,
+      236.5
+    ],
+    "fill": 0.981,
+    "px": [
+      772,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p001_04.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 5,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      236.5,
+      158.2,
+      420.8
+    ],
+    "fill": 0.98,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_05.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 6,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      236.5,
+      297.1,
+      420.8
+    ],
+    "fill": 0.976,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_06.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 7,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      236.5,
+      436.0,
+      420.8
+    ],
+    "fill": 0.972,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_07.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 8,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      236.5,
+      574.9,
+      420.8
+    ],
+    "fill": 0.976,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_08.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 9,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      420.8,
+      158.2,
+      605.1
+    ],
+    "fill": 0.974,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_09.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 10,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      420.8,
+      297.1,
+      605.1
+    ],
+    "fill": 0.979,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_10.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 11,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      420.8,
+      436.0,
+      605.1
+    ],
+    "fill": 0.975,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_11.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 12,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      420.8,
+      574.9,
+      605.1
+    ],
+    "fill": 0.974,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_12.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 13,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      605.1,
+      158.2,
+      789.4
+    ],
+    "fill": 0.979,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_13.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 14,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      605.1,
+      297.1,
+      789.4
+    ],
+    "fill": 0.98,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_14.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 15,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      605.1,
+      436.0,
+      789.4
+    ],
+    "fill": 0.978,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_15.png"
+  },
+  {
+    "pagina": 1,
+    "idx": 16,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      605.1,
+      574.9,
+      789.4
+    ],
+    "fill": 0.977,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p001_16.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 1,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      52.2,
+      158.2,
+      236.5
+    ],
+    "fill": 0.978,
+    "px": [
+      772,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p002_01.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 2,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      52.2,
+      297.1,
+      236.5
+    ],
+    "fill": 0.978,
+    "px": [
+      773,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p002_02.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 3,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      52.2,
+      436.0,
+      236.5
+    ],
+    "fill": 0.976,
+    "px": [
+      773,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p002_03.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 4,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      52.2,
+      574.9,
+      236.5
+    ],
+    "fill": 0.986,
+    "px": [
+      772,
+      1024
+    ],
+    "arquivo": "celulas_brutas/p002_04.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 5,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      236.5,
+      158.2,
+      420.8
+    ],
+    "fill": 0.978,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_05.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 6,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      236.5,
+      297.1,
+      420.8
+    ],
+    "fill": 0.978,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_06.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 7,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      236.5,
+      436.0,
+      420.8
+    ],
+    "fill": 0.976,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_07.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 8,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      236.5,
+      574.9,
+      420.8
+    ],
+    "fill": 0.974,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_08.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 9,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      420.8,
+      158.2,
+      605.1
+    ],
+    "fill": 0.978,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_09.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 10,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      420.8,
+      297.1,
+      605.1
+    ],
+    "fill": 0.971,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_10.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 11,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      420.8,
+      436.0,
+      605.1
+    ],
+    "fill": 0.973,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_11.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 12,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      420.8,
+      574.9,
+      605.1
+    ],
+    "fill": 0.975,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_12.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 13,
+    "modo": "A4",
+    "bbox_pt": [
+      19.3,
+      605.1,
+      158.2,
+      789.4
+    ],
+    "fill": 0.916,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_13.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 14,
+    "modo": "A4",
+    "bbox_pt": [
+      158.2,
+      605.1,
+      297.1,
+      789.4
+    ],
+    "fill": 0.913,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_14.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 15,
+    "modo": "A4",
+    "bbox_pt": [
+      297.1,
+      605.1,
+      436.0,
+      789.4
+    ],
+    "fill": 0.923,
+    "px": [
+      773,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_15.png"
+  },
+  {
+    "pagina": 2,
+    "idx": 16,
+    "modo": "A4",
+    "bbox_pt": [
+      436.0,
+      605.1,
+      574.9,
+      789.4
+    ],
+    "fill": 0.926,
+    "px": [
+      772,
+      1025
+    ],
+    "arquivo": "celulas_brutas/p002_16.png"
+  }
+]

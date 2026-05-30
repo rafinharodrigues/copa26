@@ -1,0 +1,18 @@
+# Ignora TUDO por padrao
+/*
+
+# Mantem o proprio .gitignore
+!.gitignore
+
+# Permite descer ate saida/ (mas nao traz README.md, scripts/, docs/, pdfs_origem/, temp/)
+!saida/
+
+# Dentro de saida/: ignora tudo, depois libera SO as figurinhas e os .json
+saida/*
+!saida/figurinhas/
+!saida/*.json
+
+# subpasta brasil_atualizado: apenas o .json (nao os recortes brutos)
+!saida/brasil_atualizado/
+saida/brasil_atualizado/*
+!saida/brasil_atualizado/*.json

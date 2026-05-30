@@ -1,0 +1,571 @@
+{
+ "albumDir": "c:/Users/rafin/OneDrive/Documentos/NordesteRP/figurinhas/saida/celulas_brutas",
+ "brasilDir": "c:/Users/rafin/OneDrive/Documentos/NordesteRP/figurinhas/saida/brasil_atualizado/celulas_brutas",
+ "albumCounts": {
+  "1": 16,
+  "2": 5,
+  "3": 16,
+  "4": 4,
+  "5": 16,
+  "6": 4,
+  "7": 16,
+  "8": 4,
+  "9": 16,
+  "10": 4,
+  "11": 16,
+  "12": 4,
+  "13": 16,
+  "14": 4,
+  "15": 16,
+  "16": 4,
+  "17": 16,
+  "18": 5,
+  "19": 16,
+  "20": 4,
+  "21": 16,
+  "22": 4,
+  "23": 16,
+  "24": 4,
+  "25": 16,
+  "26": 4,
+  "27": 16,
+  "28": 4,
+  "29": 16,
+  "30": 4,
+  "31": 16,
+  "32": 4,
+  "33": 16,
+  "34": 4,
+  "35": 16,
+  "36": 4,
+  "37": 16,
+  "38": 4,
+  "39": 16,
+  "40": 5,
+  "41": 16,
+  "42": 5,
+  "43": 16,
+  "44": 5,
+  "45": 16,
+  "46": 4,
+  "47": 16,
+  "48": 4,
+  "49": 16,
+  "50": 4,
+  "51": 16,
+  "52": 4,
+  "53": 16,
+  "54": 4,
+  "55": 16,
+  "56": 4,
+  "57": 16,
+  "58": 5,
+  "59": 16,
+  "60": 4,
+  "61": 16,
+  "62": 4,
+  "63": 16,
+  "64": 4,
+  "65": 16,
+  "66": 5,
+  "67": 16,
+  "68": 5,
+  "69": 16,
+  "70": 4,
+  "71": 16,
+  "72": 4,
+  "73": 16,
+  "74": 5,
+  "75": 16,
+  "76": 4,
+  "77": 16,
+  "78": 4,
+  "79": 16,
+  "80": 4,
+  "81": 16,
+  "82": 5,
+  "83": 16,
+  "84": 4,
+  "85": 16,
+  "86": 4,
+  "87": 16,
+  "88": 5,
+  "89": 16,
+  "90": 4,
+  "91": 16,
+  "92": 4,
+  "93": 16,
+  "94": 4,
+  "95": 16,
+  "96": 4,
+  "97": 16,
+  "98": 16,
+  "99": 4,
+  "100": 14,
+  "101": 13
+ },
+ "brasilCounts": {
+  "1": 16,
+  "2": 16
+ },
+ "units": [
+  {
+   "id": "time01_p001-002",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "time02_p003-004",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "time03_p005-006",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "time04_p007-008",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "time05_p009-010",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "time06_p011-012",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "time07_p013-014",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    13,
+    14
+   ]
+  },
+  {
+   "id": "time08_p015-016",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    15,
+    16
+   ]
+  },
+  {
+   "id": "brasil_atualizado",
+   "tipo": "selecao",
+   "src": "brasil",
+   "pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "time10_p019-020",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "id": "time11_p021-022",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    21,
+    22
+   ]
+  },
+  {
+   "id": "time12_p023-024",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "time13_p025-026",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "id": "time14_p027-028",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "time15_p029-030",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    29,
+    30
+   ]
+  },
+  {
+   "id": "time16_p031-032",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "id": "time17_p033-034",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    33,
+    34
+   ]
+  },
+  {
+   "id": "time18_p035-036",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "id": "time19_p037-038",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "id": "time20_p039-040",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    39,
+    40
+   ]
+  },
+  {
+   "id": "time21_p041-042",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    41,
+    42
+   ]
+  },
+  {
+   "id": "time22_p043-044",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    43,
+    44
+   ]
+  },
+  {
+   "id": "time23_p045-046",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    45,
+    46
+   ]
+  },
+  {
+   "id": "time24_p047-048",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    47,
+    48
+   ]
+  },
+  {
+   "id": "time25_p049-050",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    49,
+    50
+   ]
+  },
+  {
+   "id": "time26_p051-052",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    51,
+    52
+   ]
+  },
+  {
+   "id": "time27_p053-054",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    53,
+    54
+   ]
+  },
+  {
+   "id": "time28_p055-056",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  {
+   "id": "time29_p057-058",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    57,
+    58
+   ]
+  },
+  {
+   "id": "time30_p059-060",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    59,
+    60
+   ]
+  },
+  {
+   "id": "time31_p061-062",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    61,
+    62
+   ]
+  },
+  {
+   "id": "time32_p063-064",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    63,
+    64
+   ]
+  },
+  {
+   "id": "time33_p065-066",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    65,
+    66
+   ]
+  },
+  {
+   "id": "time34_p067-068",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    67,
+    68
+   ]
+  },
+  {
+   "id": "time35_p069-070",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    69,
+    70
+   ]
+  },
+  {
+   "id": "time36_p071-072",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    71,
+    72
+   ]
+  },
+  {
+   "id": "time37_p073-074",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "id": "time38_p075-076",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    75,
+    76
+   ]
+  },
+  {
+   "id": "time39_p077-078",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    77,
+    78
+   ]
+  },
+  {
+   "id": "time40_p079-080",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "id": "time41_p081-082",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    81,
+    82
+   ]
+  },
+  {
+   "id": "time42_p083-084",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    83,
+    84
+   ]
+  },
+  {
+   "id": "time43_p085-086",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    85,
+    86
+   ]
+  },
+  {
+   "id": "time44_p087-088",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    87,
+    88
+   ]
+  },
+  {
+   "id": "time45_p089-090",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    89,
+    90
+   ]
+  },
+  {
+   "id": "time46_p091-092",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    91,
+    92
+   ]
+  },
+  {
+   "id": "time47_p093-094",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    93,
+    94
+   ]
+  },
+  {
+   "id": "time48_p095-096",
+   "tipo": "selecao",
+   "src": "album",
+   "pages": [
+    95,
+    96
+   ]
+  },
+  {
+   "id": "esp97_especiais",
+   "tipo": "especial",
+   "src": "album",
+   "pages": [
+    97
+   ]
+  },
+  {
+   "id": "esp98-99_historicos",
+   "tipo": "especial",
+   "src": "album",
+   "pages": [
+    98,
+    99
+   ]
+  },
+  {
+   "id": "esp100-101_lendas",
+   "tipo": "especial",
+   "src": "album",
+   "pages": [
+    100,
+    101
+   ]
+  }
+ ]
+}
