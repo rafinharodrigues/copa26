@@ -1,0 +1,463 @@
+[
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 1,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "arquivo": "_CRAQUES-GRANDES/GR01_ARG_LIONEL-MESSI.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 2,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPE",
+    "arquivo": "_CRAQUES-GRANDES/GR02_FRA_KYLIAN-MBAPPE.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 3,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "arquivo": "_CRAQUES-GRANDES/GR03_POR_CRISTIANO-RONALDO.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 4,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "arquivo": "_CRAQUES-GRANDES/GR04_ESP_LAMINE-YAMAL.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 5,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "arquivo": "_CRAQUES-GRANDES/GR05_BRA_NEYMAR-JR.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 6,
+    "codigo": "ENG",
+    "nome": "HARRY KANE",
+    "arquivo": "_CRAQUES-GRANDES/GR06_ENG_HARRY-KANE.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 7,
+    "codigo": "CRO",
+    "nome": "LUKA MODRIC",
+    "arquivo": "_CRAQUES-GRANDES/GR07_CRO_LUKA-MODRIC.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 8,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "arquivo": "_CRAQUES-GRANDES/GR08_NOR_ERLING-HAALAND.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 9,
+    "codigo": "BEL",
+    "nome": "KEVIN DE BRUYNE",
+    "arquivo": "_CRAQUES-GRANDES/GR09_BEL_KEVIN-DE-BRUYNE.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 10,
+    "codigo": "BRA",
+    "nome": "VINICIUS JUNIOR",
+    "arquivo": "_CRAQUES-GRANDES/GR10_BRA_VINICIUS-JUNIOR.png"
+  },
+  {
+    "categoria": "CRAQUES-GRANDES",
+    "numero": 11,
+    "codigo": "GER",
+    "nome": "JOSHUA KIMMICH",
+    "arquivo": "_CRAQUES-GRANDES/GR11_GER_JOSHUA-KIMMICH.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 1,
+    "codigo": "USA",
+    "nome": "Estados Unidos",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC01_USA_ESTADOS-UNIDOS.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 2,
+    "codigo": "GER",
+    "nome": "Alemanha",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC02_GER_ALEMANHA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 3,
+    "codigo": "KSA",
+    "nome": "Arabia Saudita",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC03_KSA_ARABIA-SAUDITA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 4,
+    "codigo": "ALG",
+    "nome": "Argelia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC04_ALG_ARGELIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 5,
+    "codigo": "ARG",
+    "nome": "Argentina",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC05_ARG_ARGENTINA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 6,
+    "codigo": "AUT",
+    "nome": "Austria",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC06_AUT_AUSTRIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 7,
+    "codigo": "BEL",
+    "nome": "Belgica",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC07_BEL_BELGICA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 8,
+    "codigo": "BIH",
+    "nome": "Bosnia e Herzegovina",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC08_BIH_BOSNIA-E-HERZEGOVINA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 9,
+    "codigo": "ESP",
+    "nome": "WE ARE 26",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC09_ESP_WE-ARE-26.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 10,
+    "codigo": "BRA",
+    "nome": "Brasil",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC10_BRA_BRASIL.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 11,
+    "codigo": "ESP",
+    "nome": "Trofeu da Copa 2026",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC11_ESP_TROFEU-DA-COPA-2026.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 12,
+    "codigo": "UZB",
+    "nome": "Uzbequistao",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC12_UZB_UZBEQUISTAO.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 13,
+    "codigo": "ESP",
+    "nome": "Bola oficial Trionda",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC13_ESP_BOLA-OFICIAL-TRIONDA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 14,
+    "codigo": "ECU",
+    "nome": "Equador",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC14_ECU_EQUADOR.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 15,
+    "codigo": "CUW",
+    "nome": "Curacao",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC15_CUW_CURACAO.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 16,
+    "codigo": "CIV",
+    "nome": "Costa do Marfim",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC16_CIV_COSTA-DO-MARFIM.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 17,
+    "codigo": "KOR",
+    "nome": "Coreia do Sul",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC17_KOR_COREIA-DO-SUL.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 18,
+    "codigo": "ESP",
+    "nome": "Trofeu FIFA 2026",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC18_ESP_TROFEU-FIFA-2026.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 19,
+    "codigo": "COL",
+    "nome": "Colombia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC19_COL_COLOMBIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 20,
+    "codigo": "CAN",
+    "nome": "Canada",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC20_CAN_CANADA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 21,
+    "codigo": "ESP",
+    "nome": "Bicicleta (especial)",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC21_ESP_BICICLETA-ESPECIAL.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 22,
+    "codigo": "ESP",
+    "nome": "Mascotes Maple Zayu Clutch",
+    "tipo": "especial",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC22_ESP_MASCOTES-MAPLE-ZAYU-CLUTCH.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 23,
+    "codigo": "URU",
+    "nome": "Uruguai",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC23_URU_URUGUAI.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 24,
+    "codigo": "EGY",
+    "nome": "Egito",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC24_EGY_EGITO.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 25,
+    "codigo": "SCO",
+    "nome": "Escocia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC25_SCO_ESCOCIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 26,
+    "codigo": "ESP",
+    "nome": "Espanha",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC26_ESP_ESPANHA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 27,
+    "codigo": "FRA",
+    "nome": "Franca",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC27_FRA_FRANCA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 28,
+    "codigo": "GHA",
+    "nome": "Gana",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC28_GHA_GANA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 29,
+    "codigo": "HAI",
+    "nome": "Haiti",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC29_HAI_HAITI.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 30,
+    "codigo": "ENG",
+    "nome": "Inglaterra",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC30_ENG_INGLATERRA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 31,
+    "codigo": "IRN",
+    "nome": "Ira",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC31_IRN_IRA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 32,
+    "codigo": "PAN",
+    "nome": "Panama",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC32_PAN_PANAMA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 33,
+    "codigo": "NED",
+    "nome": "Holanda",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC33_NED_HOLANDA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 34,
+    "codigo": "NZL",
+    "nome": "Nova Zelandia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC34_NZL_NOVA-ZELANDIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 35,
+    "codigo": "NOR",
+    "nome": "Noruega",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC35_NOR_NORUEGA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 36,
+    "codigo": "MEX",
+    "nome": "Mexico",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC36_MEX_MEXICO.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 37,
+    "codigo": "MAR",
+    "nome": "Marrocos",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC37_MAR_MARROCOS.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 38,
+    "codigo": "JOR",
+    "nome": "Jordania",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC38_JOR_JORDANIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 39,
+    "codigo": "JPN",
+    "nome": "Japao",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC39_JPN_JAPAO.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 40,
+    "codigo": "IRQ",
+    "nome": "Iraque",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC40_IRQ_IRAQUE.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 41,
+    "codigo": "PAR",
+    "nome": "Paraguai",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC41_PAR_PARAGUAI.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 42,
+    "codigo": "POR",
+    "nome": "Portugal",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC42_POR_PORTUGAL.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 43,
+    "codigo": "COD",
+    "nome": "Congo RD",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC43_COD_CONGO-RD.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 44,
+    "codigo": "CZE",
+    "nome": "Republica Tcheca",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC44_CZE_REPUBLICA-TCHECA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 45,
+    "codigo": "SWE",
+    "nome": "Suecia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC45_SWE_SUECIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 46,
+    "codigo": "SUI",
+    "nome": "Suica",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC46_SUI_SUICA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 47,
+    "codigo": "TUN",
+    "nome": "Tunisia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC47_TUN_TUNISIA.png"
+  },
+  {
+    "categoria": "ESCUDOS-HOLOGRAFICOS",
+    "numero": 48,
+    "codigo": "TUR",
+    "nome": "Turquia",
+    "tipo": "escudo",
+    "arquivo": "_ESCUDOS-HOLOGRAFICOS/ESC48_TUR_TURQUIA.png"
+  }
+]
