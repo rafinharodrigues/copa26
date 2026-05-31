@@ -7,10 +7,11 @@
 # Permite descer ate saida/ (mas nao traz README.md, scripts/, docs/, pdfs_origem/, temp/)
 !saida/
 
-# Dentro de saida/: ignora tudo, depois libera SO as figurinhas e os .json
+# Dentro de saida/: ignora tudo, depois libera SO as figurinhas, os .json e produtos/
 saida/*
 !saida/figurinhas/
 !saida/*.json
+!saida/produtos/
 
 # subpasta brasil_atualizado: apenas o .json (nao os recortes brutos)
 !saida/brasil_atualizado/
