@@ -1,0 +1,218 @@
+[
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 1,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO01_BRA_NEYMAR-JR.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 2,
+    "codigo": "EGY",
+    "nome": "MOHAMED SALAH",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO02_EGY_MOHAMED-SALAH.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 3,
+    "codigo": "COL",
+    "nome": "LUIS DIAZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO03_COL_LUIS-DIAZ.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 4,
+    "codigo": "URU",
+    "nome": "FEDERICO VALVERDE",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO04_URU_FEDERICO-VALVERDE.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 5,
+    "codigo": "TUR",
+    "nome": "ARDA GULER",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO05_TUR_ARDA-GULER.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 6,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO06_NOR_ERLING-HAALAND.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 7,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO07_POR_CRISTIANO-RONALDO.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 8,
+    "codigo": "BEL",
+    "nome": "THIBAUT COURTOIS",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO08_BEL_THIBAUT-COURTOIS.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 9,
+    "codigo": "CRO",
+    "nome": "LUKA MODRIC",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO09_CRO_LUKA-MODRIC.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 10,
+    "codigo": "SEN",
+    "nome": "SADIO MANE",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO10_SEN_SADIO-MANE.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 11,
+    "codigo": "NED",
+    "nome": "VIRGIL VAN DIJK",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO11_NED_VIRGIL-VAN-DIJK.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 12,
+    "codigo": "AUS",
+    "nome": "MATHEW RYAN",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO12_AUS_MATHEW-RYAN.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 13,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO13_ARG_LIONEL-MESSI.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 14,
+    "codigo": "USA",
+    "nome": "CHRISTIAN PULISIC",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO14_USA_CHRISTIAN-PULISIC.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 15,
+    "codigo": "ENG",
+    "nome": "COLE PALMER",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO15_ENG_COLE-PALMER.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 16,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPE",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO16_FRA_KYLIAN-MBAPPE.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 17,
+    "codigo": "ALG",
+    "nome": "RIYAD MAHREZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO17_ALG_RIYAD-MAHREZ.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 18,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO18_ESP_LAMINE-YAMAL.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 19,
+    "codigo": "GER",
+    "nome": "JAMAL MUSIALA",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO19_GER_JAMAL-MUSIALA.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 20,
+    "codigo": "MEX",
+    "nome": "GILBERTO MORA",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO20_MEX_GILBERTO-MORA.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 21,
+    "codigo": "PAR",
+    "nome": "DIEGO GOMEZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO21_PAR_DIEGO-GOMEZ.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 22,
+    "codigo": "ECU",
+    "nome": "MOISES CAICEDO",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO22_ECU_MOISES-CAICEDO.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 23,
+    "codigo": "CUW",
+    "nome": "LEANDRO BACUNA",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO23_CUW_LEANDRO-BACUNA.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 24,
+    "codigo": "KOR",
+    "nome": "SON HEUNG-MIN",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO24_KOR_SON-HEUNG-MIN.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 25,
+    "codigo": "SWE",
+    "nome": "VIKTOR GYOKERES",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO25_SWE_VIKTOR-GYOKERES.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 26,
+    "codigo": "JPN",
+    "nome": "TAKEFUSA KUBO",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO26_JPN_TAKEFUSA-KUBO.png"
+  },
+  {
+    "categoria": "LENDAS-OURO",
+    "numero": 27,
+    "codigo": "MAR",
+    "nome": "BRAHIM DIAZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-OURO/OURO27_MAR_BRAHIM-DIAZ.png"
+  }
+]
