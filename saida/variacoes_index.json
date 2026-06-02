@@ -1,0 +1,514 @@
+[
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 1,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN01_POR_CRISTIANO-RONALDO_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 1,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN01_POR_CRISTIANO-RONALDO_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 1,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN01_POR_CRISTIANO-RONALDO_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 1,
+    "codigo": "POR",
+    "nome": "CRISTIANO RONALDO",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN01_POR_CRISTIANO-RONALDO_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 2,
+    "codigo": "ECU",
+    "nome": "MOISÉS CAICEDO",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN02_ECU_MOISES-CAICEDO_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 2,
+    "codigo": "ECU",
+    "nome": "MOISÉS CAICEDO",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN02_ECU_MOISES-CAICEDO_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 2,
+    "codigo": "ECU",
+    "nome": "MOISÉS CAICEDO",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN02_ECU_MOISES-CAICEDO_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 2,
+    "codigo": "ECU",
+    "nome": "MOISÉS CAICEDO",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN02_ECU_MOISES-CAICEDO_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 3,
+    "codigo": "COL",
+    "nome": "LUIS DÍAZ",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN03_COL_LUIS-DIAZ_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 3,
+    "codigo": "COL",
+    "nome": "LUIS DÍAZ",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN03_COL_LUIS-DIAZ_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 3,
+    "codigo": "COL",
+    "nome": "LUIS DÍAZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN03_COL_LUIS-DIAZ_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 3,
+    "codigo": "COL",
+    "nome": "LUIS DÍAZ",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN03_COL_LUIS-DIAZ_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 4,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN04_NOR_ERLING-HAALAND_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 4,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN04_NOR_ERLING-HAALAND_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 4,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN04_NOR_ERLING-HAALAND_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 4,
+    "codigo": "NOR",
+    "nome": "ERLING HAALAND",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN04_NOR_ERLING-HAALAND_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 5,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN05_ARG_LIONEL-MESSI_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 5,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN05_ARG_LIONEL-MESSI_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 5,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN05_ARG_LIONEL-MESSI_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 5,
+    "codigo": "ARG",
+    "nome": "LIONEL MESSI",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN05_ARG_LIONEL-MESSI_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 6,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN06_ESP_LAMINE-YAMAL_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 6,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN06_ESP_LAMINE-YAMAL_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 6,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN06_ESP_LAMINE-YAMAL_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 6,
+    "codigo": "ESP",
+    "nome": "LAMINE YAMAL",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN06_ESP_LAMINE-YAMAL_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 7,
+    "codigo": "MEX",
+    "nome": "RAÚL JIMÉNEZ",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN07_MEX_RAUL-JIMENEZ_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 7,
+    "codigo": "MEX",
+    "nome": "RAÚL JIMÉNEZ",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN07_MEX_RAUL-JIMENEZ_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 7,
+    "codigo": "MEX",
+    "nome": "RAÚL JIMÉNEZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN07_MEX_RAUL-JIMENEZ_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 7,
+    "codigo": "MEX",
+    "nome": "RAÚL JIMÉNEZ",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN07_MEX_RAUL-JIMENEZ_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 8,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPÉ",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN08_FRA_KYLIAN-MBAPPE_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 8,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPÉ",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN08_FRA_KYLIAN-MBAPPE_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 8,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPÉ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN08_FRA_KYLIAN-MBAPPE_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 8,
+    "codigo": "FRA",
+    "nome": "KYLIAN MBAPPÉ",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN08_FRA_KYLIAN-MBAPPE_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 9,
+    "codigo": "BRA",
+    "nome": "VINÍCIUS JÚNIOR",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN09_BRA_VINICIUS-JUNIOR_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 9,
+    "codigo": "BRA",
+    "nome": "VINÍCIUS JÚNIOR",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN09_BRA_VINICIUS-JUNIOR_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 9,
+    "codigo": "BRA",
+    "nome": "VINÍCIUS JÚNIOR",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN09_BRA_VINICIUS-JUNIOR_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 9,
+    "codigo": "BRA",
+    "nome": "VINÍCIUS JÚNIOR",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN09_BRA_VINICIUS-JUNIOR_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 10,
+    "codigo": "BEL",
+    "nome": "JÉRÉMY DOKU",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN10_BEL_JEREMY-DOKU_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 10,
+    "codigo": "BEL",
+    "nome": "JÉRÉMY DOKU",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN10_BEL_JEREMY-DOKU_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 10,
+    "codigo": "BEL",
+    "nome": "JÉRÉMY DOKU",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN10_BEL_JEREMY-DOKU_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 10,
+    "codigo": "BEL",
+    "nome": "JÉRÉMY DOKU",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN10_BEL_JEREMY-DOKU_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 11,
+    "codigo": "USA",
+    "nome": "CHRISTIAN PULISIC",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN11_USA_CHRISTIAN-PULISIC_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 11,
+    "codigo": "USA",
+    "nome": "CHRISTIAN PULISIC",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN11_USA_CHRISTIAN-PULISIC_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 11,
+    "codigo": "USA",
+    "nome": "CHRISTIAN PULISIC",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN11_USA_CHRISTIAN-PULISIC_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 11,
+    "codigo": "USA",
+    "nome": "CHRISTIAN PULISIC",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN11_USA_CHRISTIAN-PULISIC_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 12,
+    "codigo": "EGY",
+    "nome": "MOHAMED SALAH",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN12_EGY_MOHAMED-SALAH_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 12,
+    "codigo": "EGY",
+    "nome": "MOHAMED SALAH",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN12_EGY_MOHAMED-SALAH_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 12,
+    "codigo": "EGY",
+    "nome": "MOHAMED SALAH",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN12_EGY_MOHAMED-SALAH_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 12,
+    "codigo": "EGY",
+    "nome": "MOHAMED SALAH",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN12_EGY_MOHAMED-SALAH_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 13,
+    "codigo": "ENG",
+    "nome": "JUDE BELLINGHAM",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN13_ENG_JUDE-BELLINGHAM_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 13,
+    "codigo": "ENG",
+    "nome": "JUDE BELLINGHAM",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN13_ENG_JUDE-BELLINGHAM_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 13,
+    "codigo": "ENG",
+    "nome": "JUDE BELLINGHAM",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN13_ENG_JUDE-BELLINGHAM_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 13,
+    "codigo": "ENG",
+    "nome": "JUDE BELLINGHAM",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN13_ENG_JUDE-BELLINGHAM_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 14,
+    "codigo": "MAR",
+    "nome": "ACHRAF HAKIMI",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN14_MAR_ACHRAF-HAKIMI_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 14,
+    "codigo": "MAR",
+    "nome": "ACHRAF HAKIMI",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN14_MAR_ACHRAF-HAKIMI_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 14,
+    "codigo": "MAR",
+    "nome": "ACHRAF HAKIMI",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN14_MAR_ACHRAF-HAKIMI_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 14,
+    "codigo": "MAR",
+    "nome": "ACHRAF HAKIMI",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN14_MAR_ACHRAF-HAKIMI_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 15,
+    "codigo": "GER",
+    "nome": "FLORIAN WIRTZ",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN15_GER_FLORIAN-WIRTZ_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 15,
+    "codigo": "GER",
+    "nome": "FLORIAN WIRTZ",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN15_GER_FLORIAN-WIRTZ_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 15,
+    "codigo": "GER",
+    "nome": "FLORIAN WIRTZ",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN15_GER_FLORIAN-WIRTZ_ouro.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 15,
+    "codigo": "GER",
+    "nome": "FLORIAN WIRTZ",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN15_GER_FLORIAN-WIRTZ_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 16,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "variacao": "prata",
+    "arquivo": "_LENDAS-VARIACOES/LEN16_BRA_NEYMAR-JR_prata.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 16,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "variacao": "bronze",
+    "arquivo": "_LENDAS-VARIACOES/LEN16_BRA_NEYMAR-JR_bronze.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 16,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "variacao": "rosa",
+    "arquivo": "_LENDAS-VARIACOES/LEN16_BRA_NEYMAR-JR_rosa.png"
+  },
+  {
+    "categoria": "LENDAS-VARIACOES",
+    "numero": 16,
+    "codigo": "BRA",
+    "nome": "NEYMAR JR",
+    "variacao": "ouro",
+    "arquivo": "_LENDAS-VARIACOES/LEN16_BRA_NEYMAR-JR_ouro.png"
+  }
+]
