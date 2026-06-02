@@ -12,6 +12,7 @@ saida/*
 !saida/figurinhas/
 !saida/*.json
 !saida/produtos/
+!saida/nordestinos/
 
 # subpasta brasil_atualizado: apenas o .json (nao os recortes brutos)
 !saida/brasil_atualizado/
